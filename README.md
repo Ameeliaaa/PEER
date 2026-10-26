@@ -4,7 +4,7 @@
 
 ## Authors
 
-Yongqi Sun, Chenguang Dai, Yujun Quan, Yu Su, Yanfei Zhong (Senior Member, IEEE), Anzhu Yu\*
+Yongqi Sun, Chenguang Dai, Yujun Quan, Yu Su, Yanfei Zhong, Anzhu Yu\*
 
 \*Corresponding author: Anzhu Yu (`anzhu_yu@126.com`).
 
