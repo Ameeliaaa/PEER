@@ -69,7 +69,7 @@ Matched five-shot inference with the shared RS configuration on MFNet and FMB (t
 
 ## Code Availability
 
-Code will be made publicly available upon publication. (Repository link to be added.)
+Code will be made publicly available upon publication.
 
 ## Citation
 
