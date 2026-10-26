@@ -71,20 +71,6 @@ Matched five-shot inference with the shared RS configuration on MFNet and FMB (t
 
 Code will be made publicly available upon publication.
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@article{sun2026peer,
-  title   = {Evidence-Coupled Multiclass Inference for Training-Free
-             Remote Sensing Segmentation},
-  author  = {Sun, Yongqi and Dai, Chenguang and Quan, Yujun and Su, Yu and
-             Zhong, Yanfei and Yu, Anzhu},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year    = {2026}
-}
 ```
 
-The volume, number, page range, and DOI will be added once the paper is published.
 
